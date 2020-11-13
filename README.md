@@ -1,9 +1,9 @@
 # Debounce_with_blink
 Debounce pushbutton with blinking LEDs using internal pull up resistor.
 
-4x LEDs
-5x 1k resistor
-1x push button
+4x LEDs,
+5x 1k resistor,
+1x push button,
 1x Arduino
 
 1. Construct circuit as shown below.
